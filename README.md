@@ -1,1 +1,1 @@
-# Task2
+At first I took the superstore sales dataset from the kaggle and I cleaned the dataset by using python library (Pandas) to make the data more consistent and I createD the visualizations by using the tool POWERBI
